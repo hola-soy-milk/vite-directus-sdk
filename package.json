@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.5.12",
-    "directus/sdk": "^18.0.0"
+    "@directus/sdk": "github:directus/sdk"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
